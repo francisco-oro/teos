@@ -4,7 +4,7 @@
   "description": "Frontend development repository for Teos website",
   "main": "index.html",
   "scripts": {
-    "compile:sass":"node-sass main.scss resources/css/style.css",
+    "compile:sass": "node-sass main.scss resources/css/style.css",
     "watch:sass": "nodemon -e scss -x \"npm run compile:sass\""
   },
   "repository": {
@@ -14,6 +14,8 @@
   "author": "Francisco Oro",
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "node-sass": "^8.0.0"
+    "node-sass": "^8.0.0",
+    "particles.js": "^2.0.0",
+    "particlesjs": "^2.2.3"
   }
 }
