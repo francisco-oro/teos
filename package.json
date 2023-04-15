@@ -15,10 +15,7 @@
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "node-sass": "^8.0.0",
-<<<<<<< HEAD
-    "particles.js": "^2.0.0",
-=======
->>>>>>> 1d33ddc719b7529f36f69b70748124cf6d8195a1
+    "particle.js": "^1.0.7",
     "particlesjs": "^2.2.3"
   }
 }
